@@ -20,22 +20,13 @@ Easy to understand and beginner-friendly.
 
 ## How to Run
 
-1. Open the Python file in any Python IDE or Google Colab.
+1. Open the Python file on Google Colab.
 2. Run the program.
 3. Enter the first number.
 4. Enter the second number.
 5. Enter an operator (`+`, `-`, `*`, or `/`).
 6. The program will display the result of the calculation.
 
-## Example
-
-```
-Enter first number: 25
-Enter second number: 5
-Enter an operator: /
-
-divide: 5.0
-```
 
 ## Python Concepts Used
 
@@ -45,13 +36,6 @@ divide: 5.0
 * Arithmetic operators (`+`, `-`, `*`, `/`)
 * Basic error handling for division by zero
 
-## Possible Improvements
-
-In the future, this calculator can be enhanced by:
-
-* Adding more operations like modulus (`%`), exponent (`**`), and floor division (`//`)
-* Allowing users to perform multiple calculations without restarting the program
-* Displaying a clear message when an invalid operator is entered
 
 ## Conclusion
 
